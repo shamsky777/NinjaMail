@@ -1,0 +1,1330 @@
+/* Tablet Res */
+@media (max-width: 768px) {
+    .container {
+        position: relative;
+        width: 768px;
+        height: 2565px;
+    }
+
+    nav {
+        position: absolute;
+        width: 768px;
+        height: 66px;
+    }
+    .ninjamail_logo {
+        position: absolute;
+        width: 173.05px;
+        height: 52.43px;
+
+        left: -6px;
+        top: 13px;
+    }
+    .ninjamail_logo img {
+        width: 150px;
+    }
+    .ninjamail_nav_links {
+        position: absolute;
+        width: 463px;
+        height: 25px;
+
+        right: 16px;
+        top: 18px;
+        
+    }
+    .ninjamail_nav_links ul {
+        display: block;
+    }
+    .features span{
+        position: absolute;
+        height: 13px;
+
+        left: 1.13%;
+        right: 85.1%;
+        top: calc(50% - 13px/2);
+
+        font-family: 'Raleway';
+        font-style: normal;
+        font-weight: 800;
+        font-size: 13px;
+        line-height: 13px;
+        /* identical to box height, or 118% */
+
+        letter-spacing: 0.825px;
+
+        color: #000000;
+
+    }
+    .pricing span{
+        position: absolute;
+        height: 13px;
+        left: 20.77%;
+        right: 67.95%;
+        top: calc(50% - 13px/2);
+        
+        font-family: 'Raleway';
+        font-style: normal;
+        font-weight: 800;
+        font-size: 11px;
+        line-height: 13px;
+        /* identical to box height, or 118% */
+        
+        letter-spacing: 0.825px;
+        
+        color: #000000;        
+    }
+    .services span{
+        position: absolute;
+        height: 13px;
+        left: 37.47%;
+        right: 49.44%;
+        top: calc(50% - 13px/2);
+
+        font-family: 'Raleway';
+        font-style: normal;
+        font-weight: 800;
+        font-size: 11px;
+        line-height: 13px;
+        /* identical to box height, or 118% */
+
+        letter-spacing: 0.825px;
+
+        color: #000000;
+    }
+    .partners span{
+        position: absolute;
+        height: 13px;
+        left: 56.43%;
+        right: 29.35%;
+        top: calc(50% - 13px/2);
+
+        font-family: 'Raleway';
+        font-style: normal;
+        font-weight: 800;
+        font-size: 11px;
+        line-height: 13px;
+        /* identical to box height, or 118% */
+
+        letter-spacing: 0.825px;
+
+        color: #000000;
+    }
+    .underlink1 {
+        position: absolute;
+        left: 0%;
+        right: 83.97%;
+        top: 88%;
+        bottom: 0%;
+
+        background: #4BA87D;
+    }
+    .underlink2 {
+        position: absolute;
+        left: 18.51%;
+        right: 65.46%;
+        top: 88%;
+        bottom: 0%;
+
+        background: #4BA87D;
+    }
+    .underlink3 {
+        position: absolute;
+        left: 36.12%;
+        right: 47.86%;
+        top: 88%;
+        bottom: 0%;
+
+        background: #4BA87D;
+    }
+    .underlink4 {
+        position: absolute;
+        left: 55.53%;
+        right: 28.44%;
+        top: 88%;
+        bottom: 0%;
+
+        background: #4BA87D;
+    }
+    .signup_btn {
+        position: absolute;
+        width: 100px;
+        height: 25px;
+        left: 373px;
+        top: 0px;
+        
+        
+    }
+    .signup_btn span {
+        position: absolute;
+        height: 13px;
+        left: 12.27%;
+        right: 12.27%;
+        top: calc(50% - 13px/2);
+
+        font-family: 'Raleway';
+        font-style: normal;
+        font-weight: 800;
+        font-size: 6px;
+        line-height: 13px;
+        /* identical to box height, or 118% */
+
+        text-align: center;
+
+        color: #FFFFFF;
+    }
+    .Hero {
+        position: absolute;
+        width: 711px;
+        height: 250px;
+
+        left: calc(50% - 711px/2 + 0.5px);
+        top: 133px;
+    }
+    .hero_left-side {
+        position: absolute;
+        width: 315px;
+        height: 208px;
+
+        left: 0px;
+        top: 14px
+    }
+    .hero_left-side_text1 span {
+        position: absolute;
+        width: 315px;
+        height: 92px;
+        left: 0px;
+        top: 0px;
+
+        font-family: 'Playfair Display';
+        font-style: normal;
+        font-weight: 900;
+        font-size: 38px;
+        line-height: 46px;
+        
+        /* or 121% */
+
+
+        color: #000000;
+    }
+    .hero_left-side_text2 {
+        position: absolute;
+        width: 282px;
+        height: 32px;
+        left: 0px;
+        top: 109px;
+
+        font-family: 'Raleway';
+        font-style: normal;
+        font-weight: 500;
+        font-size: 12px;
+        line-height: 16px;
+        /* or 133% */
+
+        color: #000000;
+    }
+    .hero_left-side_trynow_btn {
+        position: absolute;
+        width: 131px;
+        height: 42px;
+        left: 0px;
+        top: 166px;
+    }
+    .hero_left-side_trynow_btn span {
+        position: absolute;
+        height: 15px;
+        left: 23.66%;
+        right: 26.72%;
+        top: calc(50% - 15px/2 - 0.5px);
+
+        font-family: 'Raleway';
+        font-style: normal;
+        font-weight: 900;
+        font-size: 13px;
+        line-height: 15px;
+        /* identical to box height, or 115% */
+
+        text-align: center;
+
+        color: #FFFFFF;
+    }
+    .hero_left-side_getdemo_btn {
+        position: absolute;
+        width: 131px;
+        height: 42px;
+        left: 160px;
+        top: 166px;
+    }
+    .hero_left-side_getdemo_btn span{
+        position: absolute;
+        height: 15px;
+        left: 16.03%;
+        right: 16.03%;
+        top: calc(50% - 15px/2 - 0.5px);
+
+        font-family: 'Raleway';
+        font-style: normal;
+        font-weight: 900;
+        font-size: 13px;
+        line-height: 15px;
+        /* identical to box height, or 115% */
+
+        text-align: center;
+
+        color: #4BA87D;
+    }
+    .hero_photo {
+        position: absolute;
+        width: 445px;
+        height: 250px;
+        right: 0px;
+        top: 0px;
+    }
+    .hero_photo img {
+        position: absolute;
+        width: 445px;
+        height: 250px;
+        right: 0px;
+        top: 0px;
+    }
+    .video {
+        position: absolute;
+        width: 616px;
+        height: 347px;
+        left: calc(50% - 616px/2);
+        top: 565px;
+    }
+    .video img {
+        position: absolute;
+        width: 616px;
+    }
+    .video_text1 {
+        position: absolute;
+        width: 415px;
+        height: 51px;
+        left: calc(50% - 415px/2 - 5.5px);
+        top: 106.44px;
+    }
+    .video_text1 span{
+        position: absolute;
+        width: 415px;
+        height: 51px;
+        left: calc(50% - 415px/2 - 5.5px);
+        
+
+        font-family: 'Playfair Display';
+        font-style: normal;
+        font-weight: 900;
+        font-size: 38px;
+        line-height: 51px;
+        /* identical to box height, or 134% */
+
+
+        color: #FFFFFF;
+    }
+    .video_learnhow_btn {
+        position: absolute;
+        width: 132px;
+        height: 42px;
+        left: calc(50% - 132px/2);
+        top: 199px;
+    }
+    .video_learnhow_btn span {
+        position: absolute;
+        width: 84px;
+        height: 15px;
+        left: calc(50% - 84px/2);
+        top: 12.44px;
+
+        font-family: 'Raleway';
+        font-style: normal;
+        font-weight: 900;
+        font-size: 13px;
+        line-height: 15px;
+        /* identical to box height, or 115% */
+
+        text-align: center;
+
+        color: #4BA87D;
+    }
+    .sec3 {
+        position: absolute;
+        width: 710px;
+        height: 348px;
+        left: calc(50% - 710px/2);
+        top: 976px;
+    }
+    .thumb1 {
+        position: absolute;
+        width: 209px;
+        height: 294px;
+        left: calc(50% - 209px/2 - 250.5px);
+        top: 0px;
+    }
+    .thumb1 img {
+        position: absolute;
+        width: 209px;
+        height: 275px;
+    }
+    .whitebox_txt{
+        position: relative;
+        width: 209px;
+        height: 128px;
+        left: 0px;
+        top: 166px;
+    }
+    .whitebox_txt_btn {
+        position: absolute;
+        width: 164px;
+        height: 18px;
+        left: 20px;
+        top: 263px;
+
+        font-family: 'Raleway';
+        font-style: normal;
+        font-weight: 800;
+        font-size: 12px;
+        line-height: 14px;
+        /* or 117% */
+
+        color: #4BA87D;
+    }
+    .thumb2 {
+        position: absolute;
+        width: 209px;
+        height: 290px;
+        left: calc(50% - 209.29px/2 - 10.64px);
+        top: 57.84px;
+    }
+    .thumb2 img {
+        position: absolute;
+        width: 209px;
+        height: 184.34px;
+
+        top: -4.18px;
+    }
+    .thumb2_whitebox {
+        position: absolute;
+        width: 209px;
+        height: 128px;
+        left: 0.29px;
+        top: 162.16px;
+
+        background: #FFFFFF;
+    }
+    .thumb2_whitebox_txt h1 {
+        position: absolute;
+        width: 170px;
+        height: 73px;
+        left: 20.29px;
+
+        font-family: 'Raleway';
+        font-style: normal;
+        font-weight: 500;
+        font-size: 12px;
+        line-height: 16px;
+        /* or 133% */
+
+
+        color: #000000;
+    }
+    .thumb2_whitebox_txt_btn span{
+        position: absolute;
+        width: 164px;
+        height: 18px;
+        bottom: 60px;
+        font-family: 'Raleway';
+        font-style: normal;
+        font-weight: 800;
+        font-size: 12px;
+        line-height: 14px;
+        /* or 117% */
+
+
+        color: #4BA87D;
+    }
+    .sec3txt {
+        position: absolute;
+        width: 232px;
+        height: 206px;
+        left: calc(50% - 232px/2 + 239px);
+        top: 90px;
+    }
+    .sec3_txt1 span{
+        position: absolute;
+        width: 232px;
+        height: 93px;
+        left: 0px;
+        top: 0px;
+
+        font-family: 'Playfair Display';
+        font-style: normal;
+        font-weight: 900;
+        font-size: 28px;
+        line-height: 31px;
+        /* or 111% */
+
+
+        color: #000000;
+    }
+    .sec3_txt2 span {
+        position: absolute;
+        width: 203px;
+        height: 96px;
+        left: 1px;
+        top: 110px;
+
+        font-family: 'Raleway';
+        font-style: normal;
+        font-weight: 500;
+        font-size: 12px;
+        line-height: 16px;
+        /* or 133% */
+
+        color: #000000;
+    }
+    .sec4 {
+        position: absolute;
+        width: 708px;
+        height: 345px;
+        left: calc(50% - 708px/2 + 1px);
+        top: 1411px;
+    }
+    .casestudy1 {
+        position: absolute;
+        width: 223px;
+        height: 157px;
+        left: calc(50% - 223px/2 - 242.5px);
+        top: 0px;
+    }
+    .casestudy1 img {
+        position: absolute;
+        width: 223px;
+        height: 157px;
+        left: 0px;
+        top: 0px;
+    }
+    .casestudy1_name span {
+        position: absolute;
+        width: 143px;
+        height: 29px;
+        left: 17.06px;
+        top: 100.34px;
+
+        font-family: 'Raleway';
+        font-style: normal;
+        font-weight: 900;
+        font-size: 22px;
+        line-height: 26px;
+        /* or 118% */
+
+        color: #FFFFFF;
+    }
+    .casestudy1_membersince span {
+        position: absolute;
+        width: 174px;
+        height: 22px;
+        left: 17.06px;
+        top: 130.34px;
+
+        font-family: 'Raleway';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 12px;
+        line-height: 14px;
+        /* or 117% */
+
+        color: #FFFFFF;
+    }
+    .casestudy2 {
+        position: absolute;
+        width: 223px;
+        height: 157px;
+        left: calc(50% - 223px/2 - 0px);
+        top: 0px;
+    }
+    .casestudy2 img {
+        position: absolute;
+        width: 223px;
+        height: 157px;
+        left: 0px;
+        top: 0px;
+    }
+    .casestudy2_name span {
+        position: absolute;
+        width: 143px;
+        height: 29px;
+        left: 17.06px;
+        top: 100.34px;
+
+        font-family: 'Raleway';
+        font-style: normal;
+        font-weight: 900;
+        font-size: 22px;
+        line-height: 26px;
+        /* or 118% */
+
+        color: #FFFFFF;
+    }
+    .casestudy2_membersince span {
+        position: absolute;
+        width: 174px;
+        height: 22px;
+        left: 17.06px;
+        top: 130.34px;
+
+        font-family: 'Raleway';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 12px;
+        line-height: 14px;
+        /* or 117% */
+
+        color: #FFFFFF;
+    }
+    .casestudy3 {
+        position: absolute;
+        width: 223px;
+        height: 157px;
+        left: calc(50% - 223px/2 + 242.5px);
+        top: 0px;
+    }
+    .casestudy3 img {
+        position: absolute;
+        width: 223px;
+        height: 157px;
+        left: 0px;
+        top: 0px;
+    }
+.casestudy3_name span {
+        position: absolute;
+        width: 143px;
+        height: 29px;
+        left: 17.44px;
+        top: 100.34px;
+
+        font-family: 'Raleway';
+        font-style: normal;
+        font-weight: 900;
+        font-size: 22px;
+        line-height: 26px;
+        /* or 118% */
+
+
+        color: #FFFFFF;
+    }
+    .casestudy3_membersince span {
+        position: absolute;
+        width: 174px;
+        height: 22px;
+        left: 17.44px;
+        top: 130.34px;
+
+        font-family: 'Raleway';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 12px;
+        line-height: 14px;
+        /* or 117% */
+
+
+        color: #FFFFFF;
+    }
+    .sec4_txt {
+        position: absolute;
+        width: 591px;
+        height: 89px;
+        left: calc(50% - 591px/2 - 0.5px);
+        top: 182px;
+
+        font-family: 'Playfair Display';
+        font-style: normal;
+        font-weight: 900;
+        font-size: 28px;
+        line-height: 36px;
+        /* or 129% */
+
+        text-align: center;
+
+        color: #000000;
+    }
+    .sec4_input {
+        position: absolute;
+        width: 436px;
+        height: 70px;
+        left: calc(50% - 436px/2 - 1px);
+        top: 275px;
+    }
+    .input_email {
+        box-sizing: border-box;
+
+        position: absolute;
+        width: 275px;
+        height: 42px;
+        left: 0px;
+        top: 0px;
+
+        background: #FFFFFF;
+        border: 1px solid #9F9F9F;
+        border-radius: 5px;
+    }
+    .sec4_joinourlist_btn {
+        position: absolute;
+        width: 144px;
+        height: 42px;
+        left: 292px;
+        top: 0px;
+
+        background: #4BA87D;
+    }
+    .sec4_joinourlist_btn span {
+        position: absolute;
+        width: 101px;
+        height: 15px;
+        left: 0px;
+        margin-left: 21.5px;
+        top: 13px;
+
+        font-family: 'Raleway';
+        font-style: normal;
+        font-weight: 900;
+        font-size: 13px;
+        line-height: 15px;
+        /* identical to box height, or 115% */
+
+
+        color: #FFFFFF;
+    }
+    .input_txt{
+        position: absolute;
+        width: 157px;
+        height: 15px;
+        left: 16px;
+        top: 55px;
+
+        font-family: 'Raleway';
+        font-style: normal;
+        font-weight: 500;
+        font-size: 13px;
+        line-height: 15px;
+        /* identical to box height, or 115% */
+
+        letter-spacing: 0.65px;
+
+        color: #4BA87D;
+    }
+    .sec5 {
+        position: absolute;
+        width: 617px;
+        height: 138px;
+        left: calc(50% - 617px/2 + 0.5px);
+        top: 1806px;
+    }
+    .sec5_txt h1{
+        position: absolute;
+        width: 617px;
+        height: 110px;
+        left: calc(50% - 617px/2);
+        top: 0px;
+
+        font-family: 'Playfair Display';
+        font-style: normal;
+        font-weight: 900;
+        font-size: 28px;
+        line-height: 36px;
+        /* or 129% */
+
+        text-align: center;
+
+        color: #000000;
+    }
+    .sec5_logos {
+        position: absolute;
+        width: 605px;
+        height: 31px;
+        left: calc(50% - 605px/2 - 0px);
+        top: 107px;
+    }
+    .sec5_logo1 {
+        position: absolute;
+        width: 104px;
+        left: 0px;
+        top: 5px;
+        bottom: 4px;
+    }
+    .sec5_logo1 img {
+        position: absolute;
+        width: 104px;
+        height: 22px;
+        left: 0%;
+        right: 0%;
+        top: 0%;
+        bottom: 0%;
+    }
+    .sec5_logo2 {
+        position: absolute;
+        width: 55px;
+        left: calc(50% - 55px/2 - 128px);
+        top: 2px;
+        bottom: 0px;
+    }
+    .sec5_logo2 img {
+        position: absolute;
+        width: 55px;
+        height: 29px;
+        left: 0%;
+        right: 0%;
+        top: 0%;
+        bottom: 0%;
+    }
+    .sec5_logo3 {
+        position: absolute;
+        width: 94px;
+        left: calc(50% - 94px/2 - 10.5px);
+        top: 0px;
+        bottom: 0px;
+    }
+    .sec5_logo3 img {
+        position: absolute;
+        width: 94px;
+        height: 31px;
+        left: 0%;
+        right: 0%;
+        top: 0%;
+        bottom: 0%;
+    }
+    .sec5_logo4 {
+        position: absolute;
+        width: 92px;
+        height: 17px;
+        left: 381px;
+        top: 6px;
+    }
+    .sec5_logo4 img {
+        position: absolute;
+        width: 92px;
+        height: 17px;
+        left: 0%;
+        right: 0%;
+        top: 0%;
+        bottom: 0%;
+    }
+    .sec5_logo5 {
+        position: absolute;
+        width: 91px;
+        height: 15px;
+        left: 514px;
+        top: 8px;
+    }
+    .sec5_logo5 img {
+        position: absolute;
+        width: 91px;
+        height: 15px;
+        left: 0%;
+        right: 0%;
+        top: 0%;
+        bottom: 0%;
+    }
+    .getstarted {
+        position: absolute;
+        height: 240px;
+        left: 0px;
+        right: 0px;
+        top: 2039px;
+
+        z-index: 3;
+    }
+    .getstarted_txt span {
+        position: absolute;
+        width: 617px;
+        height: 81px;
+        left: calc(50% - 617px/2 + 0.5px);
+        top: calc(50% - 81px/2 - 34.5px);
+
+        font-family: 'Playfair Display';
+        font-style: normal;
+        font-weight: 900;
+        font-size: 42px;
+        line-height: 56px;
+        /* or 133% */
+
+        text-align: center;
+
+        color: #FFFFFF;
+    }
+    .pick_btn {
+        position: absolute;
+        width: 131px;
+        height: 42px;
+        left: calc(50% - 131px/2);
+        top: 139px;
+
+        background: #FFFFFF;
+    }
+    .pick_btn span {
+        position: absolute;
+        height: 15px;
+        left: 17.56%;
+        right: 17.56%;
+        top: calc(50% - 15px/2 - 0.5px);
+
+        font-family: 'Raleway';
+        font-style: normal;
+        font-weight: 900;
+        font-size: 13px;
+        line-height: 15px;
+        /* identical to box height, or 115% */
+
+        text-align: center;
+
+        color: #4BA87D;
+    }
+    footer {
+        position: absolute;
+        width: 768px;
+        height: 286px;
+        left: calc(50% - 768px/2);
+        top: 2279px;
+    }
+    .footer_ninjamail_logo {
+        position: absolute;
+        width: 127.03px;
+        height: 37.27px;
+        left: 63px;
+        top: 47px;
+    }
+    .footer_ninjamail_logo img {
+        width: 100px;
+    }
+    .footer_links {
+        position: absolute;
+        width: 368px;
+        height: 130.28px;
+        right: 81px;
+        top: 51px;
+    }
+    .features_links span {
+        position: absolute;
+        width: 51px;
+        height: 14px;
+        right: 317px;
+        top: 0px;
+
+        font-family: 'Raleway';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 12px;
+        line-height: 14px;
+        /* identical to box height, or 117% */
+
+
+        color: #000000;
+    }
+    .pricing_links span {
+        position: absolute;
+        width: 40px;
+        height: 14px;
+        right: 328px;
+        top: 21px;
+
+        font-family: 'Raleway';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 12px;
+        line-height: 14px;
+        /* identical to box height, or 117% */
+
+
+        color: #000000;
+    }
+    .services_links span {
+        position: absolute;
+        width: 49px;
+        height: 14px;
+        right: 319px;
+        top: 42px;
+
+        font-family: 'Raleway';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 12px;
+        line-height: 14px;
+        /* identical to box height, or 117% */
+
+
+        color: #000000;
+    }
+    .partners_links span {
+        position: absolute;
+        width: 49px;
+        height: 14px;
+        right: 319px;
+        top: 63px;
+
+        font-family: 'Raleway';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 12px;
+        line-height: 14px;
+        /* identical to box height, or 117% */
+
+
+        color: #000000;
+    }
+    .aboutus_links span {
+        position: absolute;
+        width: 53px;
+        height: 14px;
+        right: 225px;
+        top: 0px;
+
+        font-family: 'Raleway';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 12px;
+        line-height: 14px;
+        /* identical to box height, or 117% */
+
+
+        color: #000000;
+    }
+    .tutorial_links span {
+        position: absolute;
+        width: 50px;
+        height: 14px;
+        right: 228px;
+        top: 21px;
+
+        font-family: 'Raleway';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 12px;
+        line-height: 14px;
+        /* identical to box height, or 117% */
+
+
+        color: #000000;
+    }
+    .resources_links span {
+        position: absolute;
+        width: 60px;
+        height: 14px;
+        right: 218px;
+        top: 42px;
+
+        font-family: 'Raleway';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 12px;
+        line-height: 14px;
+        /* identical to box height, or 117% */
+
+
+        color: #000000;
+    }
+    .helpcenter_links span {
+        position: absolute;
+        width: 70px;
+        height: 14px;
+        right: 208px;
+        top: 63px;
+
+        font-family: 'Raleway';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 12px;
+        line-height: 14px;
+        /* identical to box height, or 117% */
+
+
+        color: #000000;
+    }
+    .templates_links span {
+        position: absolute;
+        width: 61px;
+        height: 14px;
+        right: 217px;
+        top: 84px;
+
+        font-family: 'Raleway';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 12px;
+        line-height: 14px;
+        /* identical to box height, or 117% */
+
+
+        color: #000000;
+    }
+    .casestudies_links span {
+        position: absolute;
+        width: 75px;
+        height: 14px;
+        right: 203px;
+        top: 105px;
+
+        font-family: 'Raleway';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 12px;
+        line-height: 14px;
+        /* identical to box height, or 117% */
+
+
+        color: #000000;
+    }
+    .medium_links span {
+        position: absolute;
+        width: 47px;
+        height: 14px;
+        right: 115px;
+        top: 0px;
+
+        font-family: 'Raleway';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 12px;
+        line-height: 14px;
+        /* identical to box height, or 117% */
+
+
+        color: #000000;
+    }
+    .twitter_links span {
+        position: absolute;
+        width: 41px;
+        height: 14px;
+        right: 121px;
+        top: 21px;
+
+        font-family: 'Raleway';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 12px;
+        line-height: 14px;
+        /* identical to box height, or 117% */
+
+
+        color: #000000;
+    }
+    .facebook_links span {
+        position: absolute;
+        width: 56px;
+        height: 14px;
+        right: 106px;
+        top: 42px;
+
+        font-family: 'Raleway';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 12px;
+        line-height: 14px;
+        /* identical to box height, or 117% */
+
+
+        color: #000000;
+    }
+    .instagram_links span {
+        position: absolute;
+        width: 59px;
+        height: 14px;
+        right: 103px;
+        top: 63px;
+
+        font-family: 'Raleway';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 12px;
+        line-height: 14px;
+        /* identical to box height, or 117% */
+
+
+        color: #000000;
+    }
+    .linkedin_links span {
+        position: absolute;
+        width: 50px;
+        height: 14px;
+        right: 112px;
+        top: 84px;
+
+        font-family: 'Raleway';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 12px;
+        line-height: 14px;
+        /* identical to box height, or 117% */
+
+
+        color: #000000;
+    }
+    .contactus_links span {
+        position: absolute;
+        width: 64px;
+        height: 14px;
+        right: 0px;
+        top: 0px;
+
+        font-family: 'Raleway';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 12px;
+        line-height: 14px;
+        /* identical to box height, or 117% */
+
+
+        color: #000000;
+    }
+    .slack_links span {
+        position: absolute;
+        width: 32px;
+        height: 14px;
+        right: 32px;
+        top: 21px;
+
+        font-family: 'Raleway';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 12px;
+        line-height: 14px;
+        /* identical to box height, or 117% */
+
+
+        color: #000000;
+    }
+    .jobs_links span {
+        position: absolute;
+        width: 27px;
+        height: 14px;
+        right: 37px;
+        top: 42px;
+
+        font-family: 'Raleway';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 12px;
+        line-height: 14px;
+        /* identical to box height, or 117% */
+
+
+        color: #000000;
+    }
+    .divider {
+        position: absolute;
+        height: 1px;
+        left: 29px;
+        right: 28px;
+        top: 219px;
+
+        background: #DBDBDB;
+    }
+    .footer_txt {
+        position: absolute;
+        width: 333px;
+        height: 11px;
+        left: 82px;
+        top: 245px;
+
+        font-family: 'Raleway';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 9px;
+        line-height: 11px;
+        /* identical to box height, or 122% */
+
+
+        color: #000000;
+    }
+    .footer_links2 {
+        position: absolute;
+        width: 174px;
+        height: 11px;
+        right: 86px;
+        top: 245px;
+    }
+    .footer_links2_txt1 span {
+        position: absolute;
+        height: 11px;
+        left: 0%;
+        right: 51.72%;
+        top: calc(50% - 11px/2);
+
+        font-family: 'Raleway';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 9px;
+        line-height: 11px;
+        /* identical to box height, or 122% */
+
+        color: #000000;
+    }
+    .footer_links2_txt2 span {
+        position: absolute;
+        height: 11px;
+        left: 65.52%;
+        right: 0%;
+        top: calc(50% - 11px/2);
+
+        font-family: 'Raleway';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 9px;
+        line-height: 11px;
+        /* identical to box height, or 122% */
+
+
+        color: #000000;
+    }
+    .bgstuff {
+        position: absolute;
+        width: 860px;
+        height: 1705px;
+        top: 86px;
+    }
+    .floating_elements {
+        position: absolute;
+        width: 772.66px;
+        height: 1248.38px;
+        left: 93px;
+        top: 0px;
+    }
+    .shapefade1 {
+        position: absolute;
+        width: 10px;
+        height: 10px;
+        left: calc(50% - 10px/2 + 339.67px);
+        top: 941px;
+
+        background: #F4F4F4;
+        mix-blend-mode: normal;
+        opacity: 0.8;
+    }
+    .slash_white {
+        position: absolute;
+        width: 157px;
+        height: 757px;
+        right: 0px;
+        top: 948px;
+    }
+    .slantedgreenbg {
+        top: 697px;
+        width: 768px;
+    }
+    .slantedgreenbg img{
+        position: absolute;
+        width: 768px;
+        
+        top: -0px;
+        
+    }
+    .vidgraybg {
+        position: absolute;
+        width: 768px;
+        height: 487px;
+        left: 85px;
+        right: 321px;
+        top: 394px;
+
+        background: #F7F7F7;
+        mix-blend-mode: normal;
+        opacity: 0.81;
+    }
+}
